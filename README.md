@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 Welcome to my github repository
 - ✨ Have a nice day ✨
-- @ noam-kessler
+- @noam-kessler
 
 <!--
 **noam-kessler/noam-kessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
